@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nik.sedov990@mail.ru**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: tg:vpotokeeeee </h3>
 <p align="left">
 </p>
 
