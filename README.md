@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">A Frontend Developer.</h3>
 
-- 🌱 I’m currently learning **TypeScript, Redux**
+- 🌱 I’m currently learning **Express js, Full Stack flow**
 
 - 📫 How to reach me **nik.sedov990@mail.ru**
 
